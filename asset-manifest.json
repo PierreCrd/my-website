@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/my-website/static/css/main.d63261a8.chunk.css",
+    "main.js": "/my-website/static/js/main.03a84566.chunk.js",
+    "main.js.map": "/my-website/static/js/main.03a84566.chunk.js.map",
+    "runtime-main.js": "/my-website/static/js/runtime-main.0e54b827.js",
+    "runtime-main.js.map": "/my-website/static/js/runtime-main.0e54b827.js.map",
+    "static/js/2.169a3e6e.chunk.js": "/my-website/static/js/2.169a3e6e.chunk.js",
+    "static/js/2.169a3e6e.chunk.js.map": "/my-website/static/js/2.169a3e6e.chunk.js.map",
+    "static/js/3.ab09ccf8.chunk.js": "/my-website/static/js/3.ab09ccf8.chunk.js",
+    "static/js/3.ab09ccf8.chunk.js.map": "/my-website/static/js/3.ab09ccf8.chunk.js.map",
+    "index.html": "/my-website/index.html",
+    "static/css/main.d63261a8.chunk.css.map": "/my-website/static/css/main.d63261a8.chunk.css.map",
+    "static/js/2.169a3e6e.chunk.js.LICENSE.txt": "/my-website/static/js/2.169a3e6e.chunk.js.LICENSE.txt",
+    "static/media/CSS-logo.5da907d7.svg": "/my-website/static/media/CSS-logo.5da907d7.svg",
+    "static/media/CV.bf0175de.png": "/my-website/static/media/CV.bf0175de.png",
+    "static/media/HTML-logo.aff8a9cb.svg": "/my-website/static/media/HTML-logo.aff8a9cb.svg",
+    "static/media/LOGO_ROADEF.059c6807.png": "/my-website/static/media/LOGO_ROADEF.059c6807.png",
+    "static/media/LinkedIn_logo.7a5eab93.png": "/my-website/static/media/LinkedIn_logo.7a5eab93.png",
+    "static/media/comingSoon.5ac8cdb0.jpeg": "/my-website/static/media/comingSoon.5ac8cdb0.jpeg",
+    "static/media/githubLogo.255db585.svg": "/my-website/static/media/githubLogo.255db585.svg",
+    "static/media/javaScript-logo.acc4642f.svg": "/my-website/static/media/javaScript-logo.acc4642f.svg",
+    "static/media/logoAAMAS.4c87b36f.png": "/my-website/static/media/logoAAMAS.4c87b36f.png",
+    "static/media/mailLogo.4bc02269.png": "/my-website/static/media/mailLogo.4bc02269.png",
+    "static/media/python-logo.7926a98a.svg": "/my-website/static/media/python-logo.7926a98a.svg",
+    "static/media/react-logo.dcc679e5.png": "/my-website/static/media/react-logo.dcc679e5.png",
+    "static/media/sortingPic.81082678.png": "/my-website/static/media/sortingPic.81082678.png",
+    "static/media/sudokuPic.9a6e5fdb.png": "/my-website/static/media/sudokuPic.9a6e5fdb.png",
+    "static/media/websitePic.0377a679.png": "/my-website/static/media/websitePic.0377a679.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e54b827.js",
+    "static/js/2.169a3e6e.chunk.js",
+    "static/css/main.d63261a8.chunk.css",
+    "static/js/main.03a84566.chunk.js"
+  ]
+}
